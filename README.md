@@ -29,9 +29,20 @@ The data was first normalized in excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ### Overview 
+![overview]https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/images/gdp_main_overview.png
 ### GDP by Sector Analysis 
+![GDP by sector]https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/images/gdp_by%20sector_view.png
 
 ## Recommendations
+a. Emergency Input Support - Provide subsidized inputs (fertilizers, seeds, etc.) to farmers.
+b. Climate-Smart Agriculture - Promote drought-tolerant crop varieties and irrigation systems.
+c. Security Enhancement - Increase security presence in rural area to protect farmers.
+d. Pest and Disease management - Establish monitoring systems and provide support for pest and disease control.
+e. Agricultural Policy-Reforms - Review and update policies to support the agriculture sector.
+f. Infrastructure Development - Invest in irrigation systems, storage facilities, and transportation networks.
+g. Farmers Capacity Building - Provide training and extension services to enhance farmers skills.
+h. Research and Development - Invest in agricultural research to improve crop yields and disease resistance.
+i. Value Chain Development - Encourage processing, packaging , and marketing  of agricultural products. 
 
 ## Download
 The analysis and visualization of gdp data from 2020-2023
