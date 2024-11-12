@@ -22,7 +22,7 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 - Data visualization
   
 ## Datasource
-<a href = "https://nigerianstat.gov.ng/elibrary/read/1241460"> National Bureau of statistics </a>
+<a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of statistics </a>
 ## Data Model 
 The data was first normalized in excel before being transformed in Power Query. the raw data was split into nominal and real GDP and the indirect tax was separated. A date table was also created in Power Query.
 
