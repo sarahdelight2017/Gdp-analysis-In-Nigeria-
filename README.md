@@ -9,7 +9,7 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 - Highlight Key Metrics: Focus on critical metrics such as the real GDP values, percentage change this quarter versus last quarter, and the percentage change this quarter versus the same quarter last year to provide a clear picture of economic performance.
 - Visualize Data for Better Understanding: Utilize Excel and Power BI to present the GDP data effectively, including line charts to show thr quarterly trend of GDP and abr charts to display the percentage change in real GDP for preceeding years.
 - Provide Contextual Analysis: Offer contextual explanations for observed GDP trends and growth rates, linking economic events, climate and seasonality , policies to their potential impacts on the GDP.
-  
+
 ## Tools
 - Power BI
 - Excel
