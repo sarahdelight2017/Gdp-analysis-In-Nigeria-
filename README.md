@@ -31,6 +31,7 @@ The data was first normalized in excel before being transformed in Power Query. 
 ### Overview 
 The current quarter GDP is 18.29T, following a decrease of 16.05% in the previous years.
 ![Overview](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_main_overview.png)
+
 ### GDP by Sector Analysis 
 ![GDP by Sector](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_by%20sector_view.png)
 
