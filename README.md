@@ -26,17 +26,16 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 
 ## Data Model 
 The data was first normalized in excel before being transformed in Power Query. the raw data was split into nominal and real GDP and the indirect tax was separated. A date table was also created in Power Query.
-![Data modelling in Power BI](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_data_model.png)
+![Data modelling in Power BI](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/images/github/gdp_Data_model_view.png)
 
 ## Dashboard Insights
 
 ### Overview 
 The current quarter GDP is 18.29T, following a decrease of 16.05% in the previous years.
-![Overview](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_main_overview.png)
+![Overview](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/images/github/gdp_main_overview.png)
 
 ### GDP by Sector Analysis 
-![GDP by Sector](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_by_sector%20view.png)
-
+![GDP by Sector](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/images/github/GDP_by_sector.png)
 
 ## Recommendations
 - Emergency Input Support - Provide subsidized inputs (fertilizers, seeds, etc.) to farmers.
