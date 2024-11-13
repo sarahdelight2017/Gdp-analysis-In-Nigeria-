@@ -23,17 +23,20 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
   
 ## Datasource
 <a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of statistics </a>
+
 ## Data Model 
 The data was first normalized in excel before being transformed in Power Query. the raw data was split into nominal and real GDP and the indirect tax was separated. A date table was also created in Power Query.
 ![Data modelling in Power BI](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_datamodel_view.png)
 
 ## Dashboard Insights
+
 ### Overview 
 The current quarter GDP is 18.29T, following a decrease of 16.05% in the previous years.
 ![Overview](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_main_overview.png)
 
 ### GDP by Sector Analysis 
 ![GDP by Sector](https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/blob/main/asserts/gdp_by_sector_view.png)
+
 
 ## Recommendations
 - Emergency Input Support - Provide subsidized inputs (fertilizers, seeds, etc.) to farmers.
@@ -47,4 +50,4 @@ The current quarter GDP is 18.29T, following a decrease of 16.05% in the previou
 - Value Chain Development - Encourage processing, packaging , and marketing  of agricultural products. 
 
 ## Download
-<a herf = "https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/raw/refs/heads/main/asserts/CHINAZA%20AKANEME%20GDP%20PROJECT.pbix"> </a> Download power Bi file
+<a herf = "https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/raw/refs/heads/main/asserts/CHINAZA%20AKANEME%20GDP%20PROJECT.pbix"> Download power Bi file </a>
