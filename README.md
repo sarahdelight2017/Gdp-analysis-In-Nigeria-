@@ -49,4 +49,4 @@ The current quarter GDP is 18.29T, following a decrease of 16.05% in the previou
 - Value Chain Development - Encourage processing, packaging , and marketing  of agricultural products. 
 
 ## Download
-<a herf ="https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/raw/refs/heads/main/images/github/AKANEME%20CHINAZA%20GDP%20PROJECT.pbix"> Download Power BI file </a>
+<a href ="https://github.com/sarahdelight2017/Gdp-analysis-In-Nigeria-/raw/refs/heads/main/images/github/AKANEME%20CHINAZA%20GDP%20PROJECT.pbix"> Download Power BI file </a>
